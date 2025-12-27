@@ -14,7 +14,7 @@ style: |
   section.center h1 { text-align: center; font-size: 2.8em; }
 
 ---
-# 期末考试易错点提示
+# 期中考试易错点提示
 ### 考试加油！
 > 本篇内容不能起到平替复习的作用
 ![bg contain right:40%](./img/emoji.jpg)
